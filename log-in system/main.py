@@ -1,5 +1,5 @@
 print("\t\t\t####################")
-print("\t\t\t#  log in system   #")
+print("\t\t\t# The log in system #")
 print("\t\t\t####################\n\n")
 
 logins = 0
