@@ -3,7 +3,7 @@ import random
 i =0
 
 while( i < 100):
-     x = str(input("Enter y to roll again : "))
+     x = str(input("Enter Y To Roll The Dice Again : "))
      if(x == 'y'):
         num= random.randint(1, 6)
 
